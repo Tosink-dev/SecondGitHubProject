@@ -9,7 +9,7 @@ public class TestController {
 	
 	public String test () {
 		
-		return "";
+		
 		return "Welcome to the PROFILE PAGE";
 		
 	}
